@@ -11,7 +11,8 @@ export default class Banner extends React.Component{
   constructor(){
     super();
     this.state = {
-      index:0
+      index:0,
+      demo:0
     }
   }
 
